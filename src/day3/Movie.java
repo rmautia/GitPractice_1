@@ -7,4 +7,5 @@ public class Movie {
     // 22 nd minute
 
     // Added some awesome functionality to the movie class.
+    //Done with tc 100.
 }
