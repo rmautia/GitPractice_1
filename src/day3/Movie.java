@@ -5,4 +5,6 @@ public class Movie {
     // they agreed to
     // restart watching from
     // 22 nd minute
+
+    // Added some awesome functionality to the movie class.
 }
