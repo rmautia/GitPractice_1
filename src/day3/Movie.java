@@ -6,5 +6,6 @@ public class Movie {
     // restart watching from
     // 22 nd minute
 
-    // These are my other notes in the master
+    // Added some awesome functionality to the movie class.
+    //Done with tc 100.
 }
